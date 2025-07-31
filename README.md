@@ -1,2 +1,22 @@
-# Quiz_Game
-This is a desktop-based interactive Quiz Game built using Python's Tkinter for the graphical user interface and Pygame.It allows users to select from different categories and answer multiple-choice questions. Users receive instant feedback on whether their answer was correct or not, along with a final score at the end of the quiz.
+# Quiz Game
+
+A desktop-based multiple-choice **Quiz Game** built with **Python**, using **Tkinter** for the user interface and **Pygame**. Users can choose from various categories and answer fun and educational questions!
+
+---
+
+## Features
+
+-  Category Selection: Choose from *General Knowledge*, *History*, or *Movies*.
+-  Instant feedback with color-coded responses.
+-  Optional background image support.
+-  Replay quiz after completion.
+
+---
+
+## Technologies Used
+
+- Python 3.x
+- Tkinter (GUI library)
+- Pygame (sound support)
+
+---
